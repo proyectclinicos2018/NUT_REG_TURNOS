@@ -1,0 +1,7 @@
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Configuracion Turnos\Registrar\Frm_Registrar_Configuracion_Turnos\obj\x86\Debug\Frm_Registrar_Configuracion_Turnos.Frm_Registrar_Configuracion_Turnos.resources
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Configuracion Turnos\Registrar\Frm_Registrar_Configuracion_Turnos\obj\x86\Debug\Frm_Registrar_Configuracion_Turnos.Properties.Resources.resources
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Configuracion Turnos\Registrar\Frm_Registrar_Configuracion_Turnos\obj\x86\Debug\Frm_Registrar_Configuracion_Turnos.csproj.GenerateResource.Cache
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Configuracion Turnos\Registrar\Frm_Registrar_Configuracion_Turnos\bin\Debug\Frm_Registrar_Configuracion_Turnos.exe
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Configuracion Turnos\Registrar\Frm_Registrar_Configuracion_Turnos\bin\Debug\Frm_Registrar_Configuracion_Turnos.pdb
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Configuracion Turnos\Registrar\Frm_Registrar_Configuracion_Turnos\obj\x86\Debug\Frm_Registrar_Configuracion_Turnos.exe
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Configuracion Turnos\Registrar\Frm_Registrar_Configuracion_Turnos\obj\x86\Debug\Frm_Registrar_Configuracion_Turnos.pdb
